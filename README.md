@@ -1,6 +1,4 @@
-# first_prova
-
-Um novo projeto Flutter.
+# FLUTTER_monitoramento_de_treinos
 
 ## Descrição
 
